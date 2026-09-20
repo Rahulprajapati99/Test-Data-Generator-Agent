@@ -8,7 +8,7 @@ The purpose is not to present a production agent implementation. It is to show h
 
 ## Why this exists
 
-Our interview discussion around agentic QA raised a practical question:
+Agentic QA raised a practical question:
 
 > **How would you build an agent that creates test data while making sure the generated data is actually correct?**
 
